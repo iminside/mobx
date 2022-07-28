@@ -1,5 +1,13 @@
 # mobx
 
+## 6.6.2
+
+### Patch Changes
+
+-   [`b375535c`](https://github.com/mobxjs/mobx/commit/b375535c422453963f5d3485a2ef5233568c12a6) [#3344](https://github.com/mobxjs/mobx/pull/3344) Thanks [@Nokel81](https://github.com/Nokel81)! - Allow readonly tuples as part of IObservableMapInitialValues
+
+*   [`78d1aa23`](https://github.com/mobxjs/mobx/commit/78d1aa2362b4dc5d521518688d6ac7e2d4f7ad3a) [#3458](https://github.com/mobxjs/mobx/pull/3458) Thanks [@egilll](https://github.com/egilll)! - A slight revamp of the README, wording, and clearer links
+
 ## 6.6.1
 
 ### Patch Changes
